@@ -18,9 +18,8 @@ class MyLayout(BoxLayout):
 
 class MyApp(App):
     def build(self):
-        def build(self):
-            return MyLayout()
+        return MyLayout()
 
 if __name__=='__main__':
     MyApp().run()
-# 123
+# Нажимаем и меняеться метка кнопки
